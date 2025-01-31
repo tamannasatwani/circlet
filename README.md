@@ -1,5 +1,4 @@
 # circlet
-![image](https://github.com/user-attachments/assets/c206c004-1126-4ea4-93b8-14d80dc1c39f)
 1)![image](https://github.com/user-attachments/assets/f34464d1-aecc-4d0b-952d-f44ed071b85d)
 2)![image](https://github.com/user-attachments/assets/727fb3b2-2b35-456d-960b-9764560fbc1c)
 3)![image](https://github.com/user-attachments/assets/0a1277db-fcab-42c2-a304-987a2d58808c)
